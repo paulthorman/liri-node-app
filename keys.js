@@ -9,3 +9,8 @@ var twitterKeys = {
 
 module.exports = twitterKeys;
 
+// Spotify keys
+// Client ID
+// 6ddd3aa632794543ad6df2b7494e2eac
+// Client Secret
+// a0ca5c75be174e34bb37b91ab5963d35
